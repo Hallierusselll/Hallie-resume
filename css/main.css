@@ -1,1 +1,24 @@
 /* Place CSS styles here */
+h2{
+    color: blue;
+}
+.button{
+    background-color: #c9f2c9;
+    color:black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+background-color: #deded2;
+border-color: #deded2;
+}
+
+.button:focus
+
+.button-small{
+    background-color: #c9f2c9;
+    color: black;
+    font-size: 12px;
+}
